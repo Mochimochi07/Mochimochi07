@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Websites**
 
-- 🌱 I’m currently learning **Django, Data Science, and Networking**
+- 🌱 I’m currently learning **Web Development, Data Science, and Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mochimochi07](https://github.com/Mochimochi07)
 
