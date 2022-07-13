@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://github.com/Mochimochi07/Self_Introduction](https://github.com/Mochimochi07/Self_Introduction)
 
-- ⚡ Fun fact **I love Delphinium flowers**
+- ⚡ Fun fact **I like Delphinium flowers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
