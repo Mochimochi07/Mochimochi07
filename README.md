@@ -11,7 +11,7 @@ Hi, I am Angel Jesse D. Dampil. I specialize coding in fields of Software System
 
 - 🌱 I’m currently learning **Web Development, Data Science, and CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mochimochi07](https://github.com/Mochimochi07)
+- 👨‍💻 All of my projects are available at [https://github.com/Mochimochi07?tab=repositories](https://github.com/Mochimochi07?tab=repositories)
 
 - 💬 Ask me about **Xojo**
 
