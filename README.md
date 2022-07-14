@@ -17,7 +17,7 @@ Hi, I am Angel Jesse D. Dampil. I specialize coding in fields of Software System
 
 - 📫 How to reach me **ajdeleonrazon55@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Mochimochi07/Self_Introduction](https://github.com/Mochimochi07/Self_Introduction)
+- 📄 Know about my experiences [https://github.com/Mochimochi07/my_projects](https://github.com/Mochimochi07/my_projects)
 
 - ⚡ Fun fact **I like Delphinium flowers**
 
