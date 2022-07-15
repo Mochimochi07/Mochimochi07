@@ -1,11 +1,15 @@
 <h1 align="center">Hello 👋, I am Angel Jesse Dampil</h1>
 <h3 align="center">A junior software and data developer from Philippines</h3>
+
 <p align="left">
 Hi, I am Angel Jesse D. Dampil. I specialize coding in fields of Software Systems Development(Website and Desktop), Data Science and CyberSecurity. While I was still training my own skills, I began making application designs, algorithms and strategies. I was always passionate on building things from scraps because robotics and networking always inspired me. I am delighted to share my work in Github community as a junior developer. I plan on establishing my own unique technology that focuses more on Equity, Accuracy and Security. Thus, I believe that my future IT plans will have a huge impact in human civilization.
 </p>
 
+<h3 align="left">My Info</h3>
 
+- 🤵 You can call me Aj
 
+- 👨‍💻 The name of my technology is M.A.J.A.D
 
 - 🔭 I’m currently working on **Websites**
 
