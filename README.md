@@ -7,9 +7,9 @@ Hi, I am Angel Jesse D. Dampil. I specialize coding in fields of Software System
 
 <h3 align="left">My Info</h3>
 
-- 🤵 You can call me Aj
+- 🤵 You can call me **Aj**
 
-- 👨‍💻 The name of my technology is M.A.J.A.D
+- 👨‍💻 The name of my technology is **M.A.J.A.D** 
 
 - 🔭 I’m currently working on **Websites**
 
@@ -25,6 +25,7 @@ Hi, I am Angel Jesse D. Dampil. I specialize coding in fields of Software System
 
 - ⚡ Fun fact **I like Delphinium flowers**
 
+- 🎥 I like watching **Monty Python The Life of Brian and Monty Python the Holy Grail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
