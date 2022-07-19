@@ -33,7 +33,7 @@ Hi, I am Angel Jesse D. Dampil. I specialize coding in fields of Software System
 <a href="https://fb.com/angel jesse dampil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="angel jesse dampil" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">MY WEBSITES</h3>
+<h3 align="left">My Websites</h3>
 <p align="left">
 
 Will deploy soon 
